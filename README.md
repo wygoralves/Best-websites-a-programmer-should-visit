@@ -349,7 +349,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Everything in one place
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
-- [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
 - [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
 - [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
 - [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
@@ -396,6 +395,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udacity](https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw) : Udacity, a pioneer in online education, is building "University by Silicon Valley", a new type of online university
 - [V. Anton Spraul](https://www.youtube.com/channel/UCLEMTlEe5RE04EoULMHWEEQ) : Videos for people who want to understand software better, including explanations of how software performs some of its most important jobs and tools programmers can use to to solve programming problems.
 - [xdadevelopers](https://www.youtube.com/channel/UCk1SpWNzOs4MYmr0uICEntg) : You have found the world-famous XDA-Developers.com YouTube Channel, known as XDA TV. We cover Android and Windows Mobile from HTC, Samsung, Motorola, Sony, and more. Learn about rooting your Android, how to build applications, and more.
+- [KudVenkat](https://www.youtube.com/user/kudvenkat/) : Microsoft .NET technologies and SQL Server tutorials.
 
 
 ## Good Articles
@@ -592,6 +592,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Blogs of Developers
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc
+- [Amit Merchant](https://www.amitmerchant.com) : Tutorials, tips & tricks and rants about programming and design.
 - [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
